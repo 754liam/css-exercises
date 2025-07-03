@@ -1,0 +1,26 @@
+.pclass{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-align: left;
+    font-size: large
+}
+.cooler{
+background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-align: left;
+    font-size: x-large
+}
+#id1{
+    color:rgb(0, 0, 255);
+    background-color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: xx-large;
+}
+#id2{
+    background-color:rgb(0, 255, 0);
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    font-size: x-large;
+}
